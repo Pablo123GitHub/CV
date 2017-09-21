@@ -52,10 +52,13 @@ I see web development as a logical evolution which allows me to take my problem 
 ## Experience
 
 **Zendesk** (September 2011 to December 2016)    
-*Technical support - level 2 (English, French, Spanish) Started as level 1*  
+*Technical support - level 2 (English, French, Spanish) Started as level 1*
+
 **Merrill DataSite** (November 2010 to September 2011)   
 *Project Manager*  
+
 **Kingston Technology** (September 2007 - October 2010)   
 *Technical Support (English, French, Spanish) First year in Customer Service*  
+
 **MM Teleperformance (for INTEL corporation)** (July 2005 to September 2007)   
 *Customer Service Advisor (English, French, Spanish)*  
