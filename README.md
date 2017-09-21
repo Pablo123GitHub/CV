@@ -4,7 +4,7 @@ I have more than 12 years experience in support roles for technology companies. 
 
 Throughout my support roles my main drive has always been to give the best possible experience to customers by putting myself in their shoes: often reproducing the problems that they were facing in order to find the most adequate solution.  
 
-I see web development as a logical evolution which allows me to take my problem solving skills to the next level. I would ideally see myself in a junior web developer position with strong emphasis on learning and professional growth.
+I see web development as a logical evolution which allows me to take my problem solving skills to the next level. I would ideally see myself as a junior web developer in a position with strong emphasis on learning and professional growth.
 
 ## Skills
 
