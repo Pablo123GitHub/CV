@@ -28,7 +28,7 @@ I see web development as a logical evolution which allows me to take my problem 
 #### Internal promotion
 
 - At Zendesk (September 2011 to December 2016), I moved internally from Tier 1 to Tier 2 support  
-- At Kingston Technology (September 2007 - October 2010)  , I moved from Customer Service to Tech Support
+- At Kingston Technology (September 2007 - October 2010), I moved internally from Customer Service to Tech Support
 
 #### Languages
 
