@@ -21,7 +21,7 @@ I see web development as a logical evolution which allows me to take my problem 
 
 #### Internal promotion
 
-I was recognised for my dedication to customer service and interest in technology and got promoted both at Kingston Technology and Zendesk.
+- I was recognised for my dedication to customer service and interest in technology and got promoted both at Kingston Technology and Zendesk.
 
 #### Languages
 
