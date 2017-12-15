@@ -47,7 +47,7 @@ An intensive software development immersive course
 #### Schooling
 
 - Three years of English studies diploma (University of Rouen, France and then University of Caen, France )
-- Baccalauréat Scientifique with honours (French equivalent to the A level in Science) June 1997
+- Baccalauréat Scientifique with honours "Assez Bien" (French equivalent to the A level in Science) June 1997
 
 
 ## Experience
