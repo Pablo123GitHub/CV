@@ -1,14 +1,16 @@
 ## Pablo Vidal
 
+[Skills](https://github.com/Pablo123GitHub/CV#skills) | [Education](https://github.com/Pablo123GitHub/CV#education) | [Experience](https://github.com/Pablo123GitHub/CV#experience) | [Interests](https://github.com/Pablo123GitHub/CV#interests)
+
 I have more than 12 years experience in support roles for technology companies. Now retraining in web development, focussing my training mainly on JavaScript with a keen interest in React JS.  
 
-I see web development as a logical evolution which allows me to take my problem solving skills to the next level. I would ideally see myself in a position where I can continue to grow as a web developer.
+I see web development as a logical evolution which allows me to take my problem solving skills to the next level.
 
 ## Skills
 
 #### Troubleshooting
 
-- Ability to describe methodically the steps that lead to the problem in order to find the best solution.
+- Ability to describe methodically the steps leading to the problem.
 - Welcoming any "*uncommon*" problem as it is always a good opportunity to learn and grow professionally.
 
 
@@ -25,18 +27,27 @@ I was recognised for my dedication to customer service and interest in technolog
 
 - French (Native standards)
 - Fluent English (Business standards)
-- Good Spanish (Advanced standards)
-
+- Good Spanish (Advanced standards/fluent)
 
 ## Education
 
-#### Makers Academy (starting September 25th, 2017) in progress ...
+#### Makers Academy (September 2017 to December 2017)
+
+An intensive software development immersive course
+
+- Object Oriented Programming (OOP)
+- Agile Methodologies / XP Values
+- Test Driven Development (TDD)
+- Ruby: Rails 5, Sinatra
+- JavaScript: React, jQuery, NodeJS
+- Testing: RSpec, Jasmine, Mocha, Zombie, Capybara
+- Databases: MongoDB, PostgreSQL
 
 
 #### Schooling
 
 - Three years of English studies diploma (University of Rouen, France and then University of Caen, France )
-- Baccalauréat Scientifique (French equivalent to the A level in Science) June 1997
+- Baccalauréat Scientifique with honours (French equivalent to the A level in Science) June 1997
 
 
 ## Experience
@@ -52,3 +63,8 @@ I was recognised for my dedication to customer service and interest in technolog
 
 **MM Teleperformance (for INTEL corporation)** (July 2005 - September 2007)   
 *Customer Service Advisor (English, French, Spanish)*  
+
+## Interests
+
+- Chess (local chess club)
+- Jogging (local public park)
