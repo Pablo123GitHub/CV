@@ -56,7 +56,7 @@ An intensive software development immersive course
 *Technical support - level 2 (English, French, Spanish) Started as level 1*
 
 **Merrill DataSite** (November 2010 - September 2011)   
-*Project Manager*  
+*Project Manager - Working in a virtual data room company who provided financial transactions' services*  
 
 **Kingston Technology** (September 2007 - October 2010)   
 *Technical Support (English, French, Spanish) First year in Customer Service*  
