@@ -47,12 +47,12 @@ An intensive software development immersive course
 - Ruby: Rails 5, Sinatra
 - JavaScript: React, jQuery, NodeJS
 - Testing: RSpec, Jasmine, Mocha, Zombie, Capybara
-- Databases: MongoDB, PostgreSQL. Redis
+- Databases: MongoDB, PostgreSQL, Redis
 
 
 #### Schooling
 
-- Three years of English studies diploma (University of Rouen, France and then University of Caen, France )
+- Completed Three years of English studies (University of Rouen, France and then University of Caen, France )
 - Baccalauréat Scientifique with honours "Assez Bien" (French equivalent to the A level in Science) June 1997
 
 
