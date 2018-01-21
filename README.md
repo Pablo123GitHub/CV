@@ -1,10 +1,20 @@
 ## Pablo Vidal
 
-[Skills](https://github.com/Pablo123GitHub/CV#skills) | [Education](https://github.com/Pablo123GitHub/CV#education) | [Experience](https://github.com/Pablo123GitHub/CV#experience) | [Interests](https://github.com/Pablo123GitHub/CV#interests)
+[Projects](https://github.com/Pablo123GitHub/CV#projects) [Skills](https://github.com/Pablo123GitHub/CV#skills) | [Education](https://github.com/Pablo123GitHub/CV#education) | [Experience](https://github.com/Pablo123GitHub/CV#experience) | [Interests](https://github.com/Pablo123GitHub/CV#interests)
 
 I have more than 12 years experience in support roles for technology companies. Now retraining in web development, focussing my training mainly on JavaScript with a keen interest in React JS.  
 
 I see web development as a logical evolution which allows me to take my problem solving skills to the next level.
+
+## Projects
+
+Projects     | Description | Technologies
+------------ | ------------- | -------------
+[Twitter challenge](https://github.com/Pablo123GitHub/chitter-challenge)  | Build a twitter clone | Ruby, Sinatra, testing with Capybara and Rspec
+[Bookshelves](https://github.com/Pablo123GitHub/UdaRead) | Build bookshelves to manage reads| Node JS and React leveraging an API provided by UdaCity
+[Learning Redis](https://github.com/Pablo123GitHub/learning_redis) | Starting with basic Redis local setup and syntax| Node JS, Redis, ioredis, ES6 
+
+
 
 ## Skills
 
@@ -13,15 +23,11 @@ I see web development as a logical evolution which allows me to take my problem 
 - Ability to describe methodically the steps leading to the problem.
 - Welcoming any "*uncommon*" problem as it is always a good opportunity to learn and grow professionally.
 
-
 #### Communication
 
 - As tech support at Zendesk, I effectively communicated solutions found by our developers to our clients and provided feedback to our marketing and operations team as we developed our product.
 - Providing support in company events (Zendesk) when necessary (once or twice a year): meeting customers to give support on the product developed by the company.
 
-#### Internal promotion
-
-- I was recognised for my dedication to customer service and interest in technology and got promoted both at Kingston Technology and Zendesk.
 
 #### Languages
 
@@ -41,7 +47,7 @@ An intensive software development immersive course
 - Ruby: Rails 5, Sinatra
 - JavaScript: React, jQuery, NodeJS
 - Testing: RSpec, Jasmine, Mocha, Zombie, Capybara
-- Databases: MongoDB, PostgreSQL
+- Databases: MongoDB, PostgreSQL. Redis
 
 
 #### Schooling
@@ -66,5 +72,5 @@ An intensive software development immersive course
 
 ## Interests
 
-- Chess (local chess club)
-- Jogging (local public park)
+- Chess 
+- Jogging
