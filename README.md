@@ -1,6 +1,6 @@
 ## Pablo Vidal
 
-[Projects](https://github.com/Pablo123GitHub/CV#projects) [Skills](https://github.com/Pablo123GitHub/CV#skills) | [Education](https://github.com/Pablo123GitHub/CV#education) | [Experience](https://github.com/Pablo123GitHub/CV#experience) | [Interests](https://github.com/Pablo123GitHub/CV#interests)
+[Projects](https://github.com/Pablo123GitHub/CV#projects) | [Skills](https://github.com/Pablo123GitHub/CV#skills) | [Education](https://github.com/Pablo123GitHub/CV#education) | [Experience](https://github.com/Pablo123GitHub/CV#experience) | [Interests](https://github.com/Pablo123GitHub/CV#interests)
 
 I have more than 12 years experience in support roles for technology companies. Now retraining in web development, focussing my training mainly on JavaScript with a keen interest in React JS.  
 
