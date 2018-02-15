@@ -12,7 +12,7 @@ Projects     | Description | Technologies
 ------------ | ------------- | -------------
 [Twitter challenge](https://github.com/Pablo123GitHub/chitter-challenge)  | Build a twitter clone | Ruby, Sinatra, testing with Capybara and Rspec
 [Bookshelves](https://github.com/Pablo123GitHub/UdaRead) | Build bookshelves to manage reads| Node JS and React leveraging an API provided by UdaCity
-[Learning Redis](https://github.com/Pablo123GitHub/learning_redis) | Starting with basic Redis local setup and syntax| Node JS, Redis, ioredis, ES6 
+
 
 
 
@@ -72,5 +72,5 @@ An intensive software development immersive course
 
 ## Interests
 
-- Chess 
+- Chess
 - Jogging
