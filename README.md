@@ -11,7 +11,7 @@ I see web development as a logical evolution which allows me to take my problem 
 Projects     | Description | Technologies
 ------------ | ------------- | -------------
 [Twitter challenge](https://github.com/Pablo123GitHub/chitter-challenge)  | Build a twitter clone | Ruby, Sinatra, testing with Capybara and Rspec
-[MakersGlassdoor](https://github.com/Pablo123GitHub/makersglassdoor)  | Build a Glassdoor clone to allow Makers alumni to give their feedback about the company they work in (collective project with 4 other Makers Academy students) | Node, Express, React JS, testing with Enzyme and Jest (Work in progress...started 05/02/2017)
+[MakersGlassdoor](https://github.com/Pablo123GitHub/makersglassdoor)  | Build a Glassdoor clone to allow Makers alumni to give their feedback about the company they work in (collective project with 4 other Makers Academy students) | Node, Express, React JS, testing with Enzyme and Jest (Work in progress...started 05/02/2018)
 
 
 
