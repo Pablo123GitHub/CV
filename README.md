@@ -20,8 +20,8 @@ Projects     | Description | Technologies
 
 #### Web Development
 
-- I have contributed to several projects, which are available in my GitHub repository.
-- I have graduated from the Makers Academy course who puts a strong emphasis on TDD and agile methodologies. More on this under  [Education](https://github.com/Pablo123GitHub/CV#education). 
+- I have contributed to several projects, which are available in my GitHub repository. Also, I have been following several tutorials from YouTube, Udemy or Lynda.com (among others).
+- I have taken the Makers Academy course who puts a strong emphasis on TDD and agile methodologies. More on this under  [Education](https://github.com/Pablo123GitHub/CV#education).
 
 
 #### Communication
