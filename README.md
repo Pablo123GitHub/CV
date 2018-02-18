@@ -16,13 +16,13 @@ Projects     | Description | Technologies
 
 
 
-
 ## Skills
 
-#### Troubleshooting
+#### Web Development
 
-- Ability to describe methodically the steps leading to the problem.
-- Welcoming any "*uncommon*" problem as it is always a good opportunity to learn and grow professionally.
+- I have contributed to several projects, which are available in my GitHub repository.
+- I have graduated from the Makers Academy course who puts a strong emphasis on TDD and agile methodologies. More on this under  [Education](https://github.com/Pablo123GitHub/CV#education). 
+
 
 #### Communication
 
