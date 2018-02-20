@@ -10,7 +10,7 @@ I see web development as a logical evolution which allows me to take my problem 
 
 Projects     | Description | Technologies
 ------------ | ------------- | -------------
-[Twitter challenge](https://github.com/Pablo123GitHub/chitter-challenge)  | Build a twitter clone | Ruby, Sinatra, testing with Capybara and Rspec
+[Twitter challenge](https://github.com/Pablo123GitHub/chitter-challenge)  | Week end challenge : the task was about building a Twitter clone with Sinatra| Ruby, Sinatra, testing with Capybara and Rspec
 [MakersGlassdoor](https://github.com/Pablo123GitHub/makersglassdoor)  | Build a Glassdoor clone to allow Makers alumni to give their feedback about the company they work in (collective project with 4 other Makers Academy students) | Node, Express, React JS, testing with Enzyme and Jest (Work in progress...started 05/02/2018)
 [GroceryAllstarrs](https://github.com/Pablo123GitHub/grocery_allstars)  | Final project Makers Academy with my fellow alumni: responsive webapp scanner to scan groceries in order to keep track of food expiry date | Node, Express, PostgreSQL, Knex.js, BookshelfJS Mocha, Chai, Zombie
 
