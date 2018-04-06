@@ -12,7 +12,7 @@ Projects     | Description | Technologies
 ------------ | ------------- | -------------
 [Twitter challenge](https://github.com/Pablo123GitHub/chitter-challenge)  | Week end challenge : the task was about building a Twitter clone with Sinatra| Ruby, Sinatra, testing with Capybara and Rspec
 [GroceryAllstarrs](https://github.com/Pablo123GitHub/grocery_allstars)  | Final project Makers Academy with my fellow alumni: responsive webapp scanner to scan groceries in order to keep track of food expiry date | Node, Express, PostgreSQL, Knex.js, BookshelfJS Mocha, Chai, Zombie
-[CatsGallery](https://github.com/Pablo123GitHub/catsGallery)  | Tech test for React: Create Instagram just for Cats galleries | Node, Express, PostgreSQL, Knex.js (backend) with ReactJS, materializecss (front end)
+[QuizGame](https://github.com/Pablo123GitHub/quizGame)  | Tech test : Quiz Game based on specific User Stories| Node, Express and Vanilla JavaScript. Tested with Cypress and Jasmine JS
 
 
 
