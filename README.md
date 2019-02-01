@@ -11,7 +11,7 @@ I see web development as a logical evolution which allows me to take my problem 
 Projects     | Description | Technologies
 ------------ | ------------- | -------------
 [Recipes](https://github.com/Pablo123GitHub/recipes)  | Website where you can add your favourite recipes, deployed on [Heroku](https://desolate-fjord-91325.herokuapp.com/)| Ruby on Rails, Bootstrap styling,Postgresql database, testing with Minitest
-[GroceryAllstarrs](https://github.com/Pablo123GitHub/grocery_allstars)  | Final project Makers Academy with my fellow alumni: responsive webapp scanner to scan groceries in order to keep track of food expiry date | Node, Express, PostgreSQL, Knex.js, BookshelfJS Mocha, Chai, Zombie
+[Motus](https://github.com/Pablo123GitHub/letter-game-in-ruby)  | A simple terminal command word game in Ruby| Ruby, Rspec for testing
 [QuizGame](https://github.com/Pablo123GitHub/quizGame)  | Tech test : Quiz Game based on specific User Stories| Node, Express and Vanilla JavaScript. Tested with Cypress and Jasmine JS
 
 
